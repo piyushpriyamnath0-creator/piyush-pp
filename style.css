@@ -151,4 +151,131 @@ footer{
 .siu{
     height:50px;
     margin-left: 30px;
+
+}
+@media (min-width:200px) and (max-width:1025px){
+    *{
+        
+    }
+    #navbar{
+    padding:0;
+    margin-right: 0cm;
+    display: flex;
+    height: 75px;
+    width: auto;
+     background-color: #0F2854;
+    
+}
+#works{
+    
+    align-content: center;
+    margin-left: 90px;
+    font-weight: 400;
+}
+#ASU{
+    color: #0F2854;
+    height: 500px;
+    width: 370px;
+    margin-top: 100px;
+   
+    border-radius: 25%;
+    border-width: 2px;
+    border-color: #1C4D8D;
+    border-style: solid;
+    margin-left: 15px;
+    margin-right: 2px;
+    display: inline-block;
+}
+#image{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    margin-left: 30px ;
+    margin-top: 5px;
+    align-items: center;
+    
+}
+#IA{
+    color: #0F2854;
+    height: 500px;
+    width: 370px;
+    margin-top: 100px;
+   
+    border-radius: 25%;
+    border-width: 2px;
+    border-color: #1C4D8D;
+    border-style: solid;
+    margin-left: 15px;
+    margin-right: 2px;
+    display: inline-block;
+}
+#DBHS{
+    color: #0F2854;
+    height: 500px;
+    width: 370px;
+    margin-top: 100px;
+   
+    border-radius: 25%;
+    border-width: 2px;
+    border-color: #1C4D8D;
+    border-style: solid;
+    margin-left: 15px;
+    margin-right: 2px;
+    display: inline-block;
+}
+#skills{
+    color: #0F2854;
+    height: 500px;
+    width: 370px;
+    margin-top: 100px;
+   
+    border-radius: 25%;
+    border-width: 2px;
+    border-color: #1C4D8D;
+    border-style: solid;
+    margin-left: 15px;
+    margin-right: 2px;
+    display: inline-block;
+}
+#asu{
+    height: 75px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 50px;
+    margin-top: 20px;
+ 
+    border-radius: 20%;
+}
+#ia{
+    height: 105px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 50px;
+    margin-top: 20px;
+ 
+    border-radius: 20%;
+}
+#photo1{
+    height: 200px;
+    margin-left: 115px;
+    border-color:#1C4D8D ;
+    border-radius: 15%;
+    
+}
+#photo2{
+    height: 200px;
+    margin-left: 115px;
+    border-color:#1C4D8D ;
+    border-radius: 15%;
+    
+}
+#dbhs{
+    height: 200px;
+    margin-left: 105px;
+    margin-top: 105px;
+    border-color:#1C4D8D ;
+    border-radius: 15%;
+    
+}
+
 }
