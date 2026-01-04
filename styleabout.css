@@ -16,7 +16,7 @@ p{
 
     color: black ;
     font-size: larger;
-    text-align: left;
+    text-align: right;
    
     font-weight: 600;
 }
@@ -28,4 +28,5 @@ p{
 }
 body{
     text-align: center;
+
 }
