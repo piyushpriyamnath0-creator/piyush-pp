@@ -16,7 +16,8 @@ p{
 
     color: black ;
     font-size: larger;
-    text-align: right;
+    text-align: left;
+    margin-left: 10px;
    
     font-weight: 600;
 }
@@ -30,3 +31,4 @@ body{
     text-align: center;
 
 }
+
