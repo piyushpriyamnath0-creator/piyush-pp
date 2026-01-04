@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+  
+    
+}
+h1{
+    background-color: #4f7491;
+    text-align: center;
+    font-weight: 800;
+    color: white;
+    height: 100px;
+    position: sticky;
+}
+p{
+
+    color: black ;
+    font-size: larger;
+    text-align: left;
+   
+    font-weight: 600;
+}
+.photos{
+    margin-left: 200px;
+    height: 300px;
+    border-radius: 25%;
+    display: inline;
+}
+body{
+    text-align: center;
+}

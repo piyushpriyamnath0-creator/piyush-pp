@@ -1,0 +1,154 @@
+*{
+    margin: 0;
+    padding: 0;
+    color:azure;
+    font-weight: 900;
+    text-decoration: none;
+    font-family: Roboto;
+}
+#image{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    margin-left: 30px ;
+    margin-top: 5px;
+    align-items: center;
+    
+}
+#navbar{
+    background-color: #0F2854;
+    display: flex;
+    height: 75px;
+    
+}
+#name{
+    align-content: center;
+   
+    margin-left: 17px;
+}
+#works{
+    justify-content: flex-start;
+    align-content: center;
+    margin-left: 800px;
+    font-weight: 800;
+}
+pre{
+    font-size: larger;
+}
+#ASU{
+    color: #0F2854;
+    height: 500px;
+    width: 500px;
+    margin-top: 100px;
+   
+    border-radius: 25%;
+    border-width: 2px;
+    border-color: #1C4D8D;
+    border-style: solid;
+    margin-left: 70px;
+    margin-right: 2px;
+    display: inline-block;
+}
+#asu{
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 70px;
+    margin-top: 20px;
+ 
+    border-radius: 20%;
+}
+.details{
+        color: #0F2854;
+        text-align: center;
+}
+#photo1{
+    height: 200px;
+    margin-left: 175px;
+    border-color:#1C4D8D ;
+    border-radius: 15%;
+    
+}
+#IA{
+    color: #0F2854;
+    height: 500px;
+    width: 500px;
+    margin-top: 0px;
+    border-radius: 25%;
+    border-width: 2px;
+    border-color: #1C4D8D;
+    border-style: solid;
+    margin-left: 50px;
+    margin-bottom: 10px;
+    display:inline-block;
+}
+#ia{
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 100px;
+    margin-top: 20px;
+ 
+    border-radius: 20%;
+}
+#photo2{
+    height: 250px;
+    margin-left: 165px;
+    border-color:#1C4D8D ;
+    border-radius: 15%;
+    
+}
+#DBHS{
+    color: #0F2854;
+    height: 500px;
+    width: 500px;
+    margin-top: 0px;
+    border-radius: 25%;
+    border-width: 2px;
+    border-color: #1C4D8D;
+    border-style: solid;
+    margin-left: 50px;
+    margin-bottom: 10px;
+    display:inline-block;
+}
+#dbhs{
+    height: 200px;
+    margin-left: 165px;
+    margin-top: 155px;
+    border-color:#1C4D8D ;
+    border-radius: 15%;
+    
+}
+footer{
+    background-color: #0F2854;
+    text-align: center;
+
+}
+#skills{
+    color: #0F2854;
+    height: 500px;
+    width: 500px;
+    margin-top: 50px;
+   text-align: center;
+    border-radius: 25%;
+    border-width: 2px;
+    border-color: #1C4D8D;
+    border-style: solid;
+    margin-left: 70px;
+    margin-right: 2px;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+#si{
+    height: 150px;
+
+   
+    margin-top: 30px;
+    
+ 
+    border-radius: 20%;
+}
+.siu{
+    height:50px;
+    margin-left: 30px;
+}
