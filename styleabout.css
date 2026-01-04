@@ -17,7 +17,7 @@ p{
     color: black ;
     font-size: larger;
     text-align: left;
-    margin-left: 10px;
+    margin-left: 15px;
    
     font-weight: 600;
 }
@@ -31,4 +31,14 @@ body{
     text-align: center;
 
 }
+@media (min-width:200px) and (max-width:1025px){
+    .photos{
+    margin-left: 15px;
+    margin-top: 20px;
+    height: 300px;
+    border-radius: 25%;
+    display: inline;
+}
+}
+
 
