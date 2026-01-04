@@ -23,18 +23,9 @@
 }
 @media (min-width:200px) and (max-width:1025px){
     #loader{
-    margin-top: 200px;
-    margin-left: 30px;
-    height: 200px;
-    width: 200px;
-    border-radius: 50%;
-    border: 20px solid #FFE66D;
-    border-top: 20px solid #4ECDC4;
-    animation: spin 1s ease-in 0s infinite normal ;
+    margin-left: 68px;
+   margin-top: 300px;
+}
+}
 
-    
-    
-  
-}
-}
 
